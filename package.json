@@ -10,11 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^2.1.1",
+    "@minchat/react-chat-ui": "^1.5.2",
     "@tailwindcss/vite": "^4.1.11",
-    "axios": "^1.11.0",
+    "antd": "^5.27.4",
+    "axios": "^1.12.2",
     "flowbite-react": "^0.12.7",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router": "^7.9.1",
+    "react-router-dom": "^7.9.3",
     "socket.io-client": "^4.8.1",
     "tailwindcss": "^4.1.11"
   },
